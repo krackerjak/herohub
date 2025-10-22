@@ -10,7 +10,8 @@ gallery = [
     {"name": "Robin", "species": "Human", "image": "robin.jpg"},
     {"name": "Spiderman", "species": "Human", "image": "spiderman.jpg"},
     {"name": "Superman", "species": "Kryptonian", "image": "superman.jpg"},
-    {"name": "Hawkman", "species": "Human", "image": "hawkman.jpg"}]
+    {"name": "Hawkman", "species": "Human", "image": "hawkman.jpg"},
+    {"name": "The Tick", "species": "Human", "image": "TheTick.jpg"}]
 
 @app.route('/')
 def show_gallery():
