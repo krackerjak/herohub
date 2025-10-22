@@ -6,8 +6,7 @@ app = Flask(__name__)
 gallery = [
     {"name": "Batman", "species": "Human", "image": "batman.jpg"},
     {"name": "Robin", "species": "Human", "image": "robin.jpg"},
-    {"name": "Wonder Woman", "species": "Human", "image": "wonderwoman.jpg"}
-    {"name": "Robin", "species": "Human", "image": "robin.jpg"}
+    {"name": "Wonder Woman", "species": "Human", "image": "wonderwoman.jpg"},
     {"name": "Robin", "species": "Human", "image": "robin.jpg"},
     {"name": "Spiderman", "species": "Human", "image": "spiderman.jpg"}
     {"name": "Sperman", "species": "Kryptonian", "image": "superman.jpg"}
