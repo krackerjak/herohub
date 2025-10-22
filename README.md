@@ -29,3 +29,5 @@ HeroHub is a simple Python web app where you can submit and view pictures of her
 - [ ] Explore security features
 
 Let’s make HeroHub "super" together!
+
+One other thing...
