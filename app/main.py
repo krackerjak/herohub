@@ -11,7 +11,6 @@ gallery = [
     {"name": "Robin", "species": "Human", "image": "robin.jpg"},
     {"name": "Spiderman", "species": "Human", "image": "spiderman.jpg"}
     {"name": "Sperman", "species": "Kryptonian", "image": "superman.jpg"}
->>>>>>> fd17f9508fff7ae89222e81b40e5d783a233835f
 ]
 
 @app.route('/')
