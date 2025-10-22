@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HeroHub Gallery</title>
+</head>
+<body>
+    <h1>Welcome to HeroHub's Gallery!</h1>
+    {% for hero in gallery %}
+        <div>
+            <h2>{{ hero.name }} the {{ hero.species }}</h2>
+            <img src="/images/{{ hero.image }}" alt="{{ hero.name }}" width="200">
+        </div>
+    {% endfor %}
+</body>
+</html>
